@@ -36,7 +36,8 @@ body {
   border-radius: 50%;
   z-index: 10px;
   cursor: pointer;
-  background-color: #fff;
+  color: #d9d6db;
+  background-color: rgba(0, 0, 0, 0.25);
   font-size: 18px;
 }
 
